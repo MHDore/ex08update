@@ -1,0 +1,5 @@
+name: ex08
+description: A sample command-line application
+dependencies:
+  a_star: any
+  unittest: '>=0.10.0 <0.11.0'
