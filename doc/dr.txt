@@ -1,0 +1,16 @@
+ex08
+
+12/20
+
+8.2
+printMatrix dans 8.2 ?
+printMatrix(var matrix){
+  for(var i in matrix)
+    print(i);
+}
+
+(-4) 8.3
+pas fait
+
+(-4) 8.5
+presque identique à mon projet
